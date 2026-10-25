@@ -20,7 +20,7 @@ int main()
     double a3, res3;
     int n3;
 
-    setlocale(LC_ALL, ".UTF8");
+    setlocale(LC_ALL, "ru_RU.UTF-8");
 
     printf("Задание 0:\n");
     printf("Введите количество символов: ");
